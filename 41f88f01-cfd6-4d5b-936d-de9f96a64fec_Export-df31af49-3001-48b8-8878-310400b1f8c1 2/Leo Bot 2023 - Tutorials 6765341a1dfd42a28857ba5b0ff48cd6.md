@@ -132,7 +132,7 @@
     
     ![Untitled](Leo%20Bot%202023%20-%20Tutorials%206765341a1dfd42a28857ba5b0ff48cd6/Untitled%2021.png)
     
-- **Update Personal Settings (New Command: “/my”)**
+- **개인세팅설정 (New Command: “/my”)**
     
     또 다른 유용한 명령어는 `/my timezone` 명령어로, 멤버들이 현재 거주하는 공간에 맞게 시간대를 설정할 수 있습니다.
     
