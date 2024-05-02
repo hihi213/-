@@ -2,7 +2,7 @@
 
 ## How To Use Leo (Users)
 
-복잡해 보이지만 감자와 함께라면 든든
+복잡해 보이지만 감자와 함께라면 든든(+약간의 파파고)
 ![Untitled](Leo%20Bot%202023%20-%20Tutorials%206765341a1dfd42a28857ba5b0ff48cd6/Untitled.png)
 
 - **기본 사항 (명령어: “/help”)**
