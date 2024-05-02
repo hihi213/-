@@ -142,7 +142,7 @@
     ![Untitled](Leo%20Bot%202023%20-%20Tutorials%206765341a1dfd42a28857ba5b0ff48cd6/Untitled%2022.png)
     또한 언어를 전환할 수도 있습니다! /my language를 사용하고 하나를 선택하면 됩니다. 만약 당신의 언어가 나타나지 않는다면, 그것은 우리의 기여자들이 아직 도달하지 않았다는 것을 의미합니다. 번역을 도와주려면 Discord에 가입하고 티켓을 열어주세요
     
--  ** LionCoins 소비 (Will be updated soon)**
+-  **LionCoins 소비 (Will be updated soon)**
     - 친구나 공부 동료에게 LionCoins를 보내고 싶다면, !send [@username] [amount] 명령어를 사용하면 됩니다.
         
         ![!send username amount.gif](Leo%20Bot%202023%20-%20Tutorials%206765341a1dfd42a28857ba5b0ff48cd6/!send_username_amount.gif)
